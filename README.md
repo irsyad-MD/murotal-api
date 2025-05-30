@@ -79,12 +79,6 @@ const data = await api.getRecitation({
 - `/murotal/{reciter}/{surah}` - Get specific surah recitation
 - `/search?q={query}` - Search reciters or surahs
 
-## 📱 Contact & Support
-
-- **WhatsApp Channel**: [Join Channel](https://whatsapp.com/channel/0029VasizxI47XeE2iiave0u)
-- **Telegram**: [@cloudkudev](https://t.me/cloudkudev)
-- **WhatsApp Chat**: [Direct Chat](https://wa.me/6287831816747)
-
 ## 🤝 Contributing
 
 1. Fork this repository
@@ -100,13 +94,3 @@ If this project helps you, please give it a ⭐ star!
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Developer
-
-**© 2025 AlfiDev**
-
-Built with ❤️ for the Muslim community
-
----
-
-**Documentation**: [cloudku.us.kg](https://cloudku.us.kg) | **Support**: [WhatsApp](https://wa.me/6287831816747)
