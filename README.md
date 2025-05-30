@@ -1,6 +1,6 @@
 # Murotal API
 
-[![GitHub stars](https://img.shields.io/github/stars/cloudkuimages/cloudku-murotal-api?style=social)](https://github.com/cloudkuimages/murotal-api/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/cloudkuimages/cloudku-murotal-api?style=social)]()
 [![GitHub forks](https://img.shields.io/github/forks/cloudkuimages/cloudku-murotal-api?style=social)](https://github.com/cloudkuimages/murotal-api/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/cloudkuimages/murotal-api)](https://github.com/cloudkuimages/cloudku-murotal-api/issues)
 [![GitHub license](https://img.shields.io/github/license/cloudkuimages/cloudku-murotal-api)](https://github.com/cloudkuimages/cloudku-murotal-api/blob/main/LICENSE)
