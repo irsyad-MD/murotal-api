@@ -18,9 +18,6 @@ Powerful and efficient API for accessing Quranic recitations (Murotal) with comp
 - **Easy Integration** - Simple REST API endpoints
 - **Comprehensive Metadata** - Detailed information about surahs, verses, and reciters
 
-## 📖 Documentation
-
-Complete API documentation available at: **[cloudku.us.kg](https://cloudku.us.kg)**
 
 ## 🛠️ Installation & Usage
 
